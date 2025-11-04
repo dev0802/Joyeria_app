@@ -7,7 +7,7 @@ const ProductPage = () => {
     <>
       <header id="header">
         <div className="container">
-          <span id="logo" title="Diana’s jewelry">
+          <span id="logo" title="Joyeria">
             Joyeria
           </span>
           <div className="right-links">

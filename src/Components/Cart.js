@@ -8,7 +8,7 @@ const Cart = () => {
       <header id="header">
         <div className="container">
           <span id="logo" title="Joyeria">
-            Joyeria
+            <img src="/logo-joyeria.png" alt="logo"/>Joyeria
           </span>
           <div className="right-links">
             <ul>
